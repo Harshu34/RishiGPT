@@ -2,7 +2,7 @@
 
 RishiGPT is an AI-powered chatbot designed to provide insightful and wise responses based on the knowledge and teachings of a Rishi or Indian Monk. This project combines the power of the Google Generative API and the GenerateContent method from the Gemini Pro language model(Previously, it used the power of the OpenAI API and the CreateChatCompletion method from the OpenAI GPT-3.5 language model). The front end is built using HTML and CSS, and the back end is developed using Node.js and Express.js.
 ## Visit the App
-- You can find the live app [here.]()
+- You can find the live app [here.](https://rishigpt-t9ks.onrender.com/)
 
 ## Features
 
@@ -20,7 +20,7 @@ To set up RishiGPT locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-# git clone https://github.com/subinoybiswas/RishiGPT.git
+git clone https://github.com/Harshu34/RishiGPT.git
 ```
 
 2. Navigate to the project directory:
